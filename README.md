@@ -14,11 +14,21 @@ To collaborate with your colleagues or friends all you have to do is to share th
 
 ## Screenshots
 
-![image](http://staffmobility.eu/sites/default/files/isewtweetbg.jpg "Optional title")
+Elegant UI: used Quill Rich Text Editor
+
+![image](https://github.com/bhaskarbhakat/DoCollab/blob/master/images/Screenshot%20(63).png "Optional title")
   
 ## Demo
 
-Insert gif or link to demo
+@2 users performing operation at the same time in a same document
+<center><img src="https://github.com/bhaskarbhakat/DoCollab/blob/master/images/3000port.gif" height=600 width=600></center>
+
+@4 users performing operation at the same time in a same document
+ If we want to collaborate with mutilple users, each user must enter same unique ID to to real-time editing in the same document.
+ 
+ ![image](https://github.com/bhaskarbhakat/DoCollab/blob/master/images/4connection.gif "Optional title")
+
+
 
   
 ## Features
